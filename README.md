@@ -5,7 +5,7 @@ The basics of Git usage
 
 ## Overview
 
-In this assignment you will demonstrate your ability to use basig Git functionality to clone this repository, make changes to a file on the master branch, make a feature branch, merge the feature branch, roll back a commit.
+In this assignment you will demonstrate your ability to use basic Git functionality to clone this repository, make changes to a file on the master branch, make a feature branch, merge the feature branch, roll back a commit.
 
 ## Instructions
 
@@ -17,7 +17,7 @@ In this assignment you will demonstrate your ability to use basig Git functional
 5. Add a header for a section on _programming background_ (but don't add content).
 5. _Commit_ those changes.
 6. Make a branch called _programming-bio_.
-7. Make at least two commits in this branch adding information about your programming background in the _programming background_ seciton. This can be things like your favorite project in 161/162 or any other programming work you have done.
+7. Make at least two commits in this branch adding information about your programming background in the _programming background_ section. This can be things like your favorite project in 161/162 or any other programming work you have done.
 8. Switch back to your _master_ branch. 
 9. Add more info to your bio and commit that change.
 10. Merge the _programming background_ branch with your _master_ branch.
