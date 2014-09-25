@@ -41,3 +41,11 @@ You should have a commit history with the following content:
 ## Grading
 
 The grading will be based on the extent to which the above instructions are followed. If you deviate from the instructions, you will potentially lose points. Even if you think you are 'improving' something.
+
+### Getting an A
+
+This is a bit non-typical as it is not a proper coding assignment. To move from a B to an A, I would suggest doing one or more of the following _on a branch off of the final master commit_. (Everything up to the final _master_ commit should conform to the above requirements)
+- Learn to use the GitHub issue system. Open, assign and close an issue.
+- Work with someone else. Get some one else to check out and make changes to your repo and you should do the same to their repo.
+- Do the same thing again, but use a different version control system and write a short paragraph talking about the differences.
+- Intentionally get yourself into a situation that requires merging conflicting work (merging edits to the same lines). Figure out how to correctly merge the content and document the steps you took to do so.
