@@ -9,7 +9,7 @@ In this assignment you will demonstrate your ability to use basic Git functional
 
 ## Instructions
 
-1. [Fork](https://help.github.com/articles/fork-a-repo) this repository into your GitHub account.
+1. ~~[Fork](https://help.github.com/articles/fork-a-repo) this repository into your GitHub account.~~ Make a new repostiory in your personal team repository in the OSU-CS494-F14 organizaiton. You should be able to automatially join this organization via [this site hacked together by your instructor](http://idyllic-aspect-573.appspot.com/). Test this early because it is a little held together with [duct tape](http://i.imgur.com/QnZ3XBa.jpg).
   - If you don't want to use GitHub, for this assignment, you may use Git on the Engineering Server but it will be your responsibility to get permissions se up correctly.
 2. _Add_ a file called bio.md. This should be a simple, plain text document. If you want to add [fancy formatting](https://help.github.com/articles/markdown-basics) you are welcome to do so.
 3. _Commit_ this to your repository that will be turned in.
