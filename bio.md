@@ -5,3 +5,7 @@ I used to be a drummer in an avant garde progressive industrial band. Since then
 I like sci-fi movies and tv shows, but usually the more cerebral stuff. The last thing the "SyFy" channel produced that I was interested in was Battlestar Galactica (spin-offs included). I was a really big fan of Star Trek: the Next Generation as a child, and remain a moderate trekie. 
 
 Programming Background
+
+I have professional training in C, C++, Java and MASM, as well as autodidactic knowledge of Javascript and Php, including the AngularJS and JQuery libraries. 
+
+This past summer, I was an intern at AT&T where, among other projects, I was lead developer on a project to build a small web application that is going to be used internally. It is a training course registration system. We used JQuery, Java Servlet, and MySql.
