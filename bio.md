@@ -9,3 +9,5 @@ Programming Background
 I have professional training in C, C++, Java and MASM, as well as autodidactic knowledge of Javascript and Php, including the AngularJS and JQuery libraries. 
 
 This past summer, I was an intern at AT&T where, among other projects, I was lead developer on a project to build a small web application that is going to be used internally. It is a training course registration system. We used JQuery, Java Servlet, and MySql.
+
+I am building a website for play-by-post role playing games. It uses AngularJS, Java Servlet, and MySql. At the moment, the only feature that is complete is use authentication. Passwords are stored as hashes on the server. After logging in, the user is given a session token which is stored as a cookie. The session token will need to be included in AJAX requests that require an authenticated user. 
