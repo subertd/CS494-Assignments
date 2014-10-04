@@ -1,4 +1,4 @@
-My name is Don. 
+### Biographical for Donald Subert
 
 I used to be a drummer in an avant garde progressive industrial band. Since then, I've dabled a bit in electronica without managing to finish a single song. I don't really have time for hobbies. I just practice coding all the time. 
 
@@ -6,9 +6,15 @@ I like sci-fi movies and tv shows, but usually the more cerebral stuff. The last
 
 My first bachelor's degree was in Political Science at Western Washington University. I graduated in 2009, which turned out to be a terrible year to look for an entry-level job. I got into software development because I thought I needed to learn a hard skill.
 
-Programming Background
+#### Programming Background
 
-I have professional training in C, C++, Java and MASM, as well as autodidactic knowledge of Javascript and Php, including the AngularJS and JQuery libraries. 
+I have experience in: 
+* C
+* C++
+* Java
+* MASM
+* Javascript (including the AngularJS and JQuery libraries) 
+* Php
 
 This past summer, I was an intern at AT&T where, among other projects, I was lead developer on a project to build a small web application that is going to be used internally. It is a training course registration system. We used JQuery, Java Servlet, and MySql.
 
